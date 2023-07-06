@@ -1,0 +1,4 @@
+#! /bin/bash
+
+curl https://cdnjs.cloudflare.com/ajax/libs/blissfuljs/1.0.6/bliss.min.js > bliss.min.js
+curl https://raw.githubusercontent.com/adaltas/node-csv/master/packages/csv-parse/dist/iife/sync.js > csv.sync.js
